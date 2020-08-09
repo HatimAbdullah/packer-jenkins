@@ -33,7 +33,7 @@ env
 
     stage('Release') {
       steps {
-        echo 'tag ami here dude'
+        echo 'so close no matter how far'
       }
     }
 
